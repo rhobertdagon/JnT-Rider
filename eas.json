@@ -8,8 +8,7 @@
       "developmentClient": true,
       "distribution": "internal",
       "env": {
-        "EXPO_USE_EXOTIC": "0",
-        "GRADLE_OPTS": "-Dorg.gradle.jvmargs=-Xmx2048m"
+        "EXPO_USE_EXOTIC": "0"
       }
     },
     "preview": {
@@ -18,8 +17,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_USE_EXOTIC": "0",
-        "GRADLE_OPTS": "-Dorg.gradle.jvmargs=-Xmx2048m"
+        "EXPO_USE_EXOTIC": "0"
       }
     },
     "production": {
@@ -28,8 +26,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_USE_EXOTIC": "0",
-        "GRADLE_OPTS": "-Dorg.gradle.jvmargs=-Xmx2048m"
+        "EXPO_USE_EXOTIC": "0"
       }
     }
   },

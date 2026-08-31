@@ -12,8 +12,7 @@
     },
     "android": {
       "package": "com.jntrider.app",
-      "versionCode": 1,
-      "usesCleartextTraffic": true
+      "versionCode": 1
     },
     "web": { "favicon": "./assets/favicon.png" },
     "extra": {

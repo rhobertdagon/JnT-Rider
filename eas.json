@@ -8,7 +8,8 @@
       "developmentClient": true,
       "distribution": "internal",
       "env": {
-        "EXPO_USE_EXOTIC": "0"
+        "EXPO_USE_EXOTIC": "0",
+        "GRADLE_VERSION": "8.6"
       }
     },
     "preview": {
@@ -17,7 +18,8 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_USE_EXOTIC": "0"
+        "EXPO_USE_EXOTIC": "0",
+        "GRADLE_VERSION": "8.6"
       }
     },
     "production": {
@@ -26,7 +28,8 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_USE_EXOTIC": "0"
+        "EXPO_USE_EXOTIC": "0",
+        "GRADLE_VERSION": "8.6"
       }
     }
   },

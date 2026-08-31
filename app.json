@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.jntrider.app"
@@ -26,13 +24,9 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
+    "web": { "favicon": "./assets/favicon.png" },
     "extra": {
-      "eas": {
-        "projectId": "77f8480f-d276-4c77-983a-af435f96b5eb"
-      }
+      "eas": { "projectId": "77f8480f-d276-4c77-983a-af435f96b5eb" }
     },
     "owner": "dagon27s-team"
   }

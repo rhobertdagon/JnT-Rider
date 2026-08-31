@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "J&T Rider Delivery",
-    "slug": "JnT-Rider",
+    "slug": "jandt-rider-delivery",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
